@@ -62,6 +62,8 @@ the installed packages. As always with these tools some commands will only work 
 
 condensated version of official [documentation](https://conda.io/docs/user-guide/tasks/manage-environments.html#removing-an-environment)
 
+[conda cheat sheet](https://conda.io/docs/_downloads/conda-cheatsheet.pdf)
+
 ## Check installation
 ```
 conda --version
